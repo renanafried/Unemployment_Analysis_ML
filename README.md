@@ -12,8 +12,8 @@ The project involves the following key steps:
 6. Visualization: Present findings using graphs and charts for a clearer understanding of the results.
 
 ### Dataset
-The dataset includes the following columns:
+The dataset contains 28,668 rows and 13 features with demographic and employment-related data for cities and regional councils in Israel. The key features include:
 
-add here
-col1:
+1. Urban Demographics: Name, district, council type.
+2. Employment Data: Total job seekers, unemployment rates, placement success, gender distribution, and academic background.
 
