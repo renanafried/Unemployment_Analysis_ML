@@ -4,12 +4,12 @@ This repository presents the implementation of a data mining course project aime
 # Project Overview
 The project involves the following key steps:
 
-Data Collection & Preprocessing: Gather and clean the dataset, which includes demographic and employment-related information for cities and regional councils in Israel.
-Feature Engineering: Create relevant features for predicting unemployment trends.
-Modeling: Build machine learning models for binary classification, including Logistic Regression, Random Forest, XGBoost, SVM, and k-NN.
-Evaluation: Assess model performance using evaluation metrics such as accuracy, precision, recall, and F1-score.
-Unsupervised Learning: Conduct clustering and anomaly detection to identify trends and insights.
-Visualization: Present findings using graphs and charts for a clearer understanding of the results.
+1. Data Collection & Preprocessing: Gather and clean the dataset, which includes demographic and employment-related information for cities and regional councils in Israel.
+2. Feature Engineering: Create relevant features for predicting unemployment trends.
+3. Modeling: Build machine learning models for binary classification, including Logistic Regression, Random Forest, XGBoost, SVM, and k-NN.
+4. Evaluation: Assess model performance using evaluation metrics such as accuracy, precision, recall, and F1-score.
+5. Unsupervised Learning: Conduct clustering and anomaly detection to identify trends and insights.
+6. Visualization: Present findings using graphs and charts for a clearer understanding of the results.
 
 # Dataset
 The dataset includes the following columns:
