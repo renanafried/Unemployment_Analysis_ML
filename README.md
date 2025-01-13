@@ -35,7 +35,7 @@ Each city appears 24 times in the dataset, corresponding to monthly data across 
 * scipy.cluster.hierarchy (for hierarchical clustering)
 
 ### Results
-1. Achieved the highest average ROC-AUC score (0.9961) with the best-performing supervised model.
+1. Achieved the highest average ROC-AUC score (0.9961) with the best-performing supervised model (Random Forest).
 2. Identified key factors influencing unemployment, such as education level and region.
 3. Clustering analysis revealed distinct groups of cities with similar unemployment trends.
 
