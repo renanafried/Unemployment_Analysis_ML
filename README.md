@@ -23,17 +23,16 @@ Each city appears 24 times in the dataset, corresponding to monthly data across 
 #### Data Analysis and Manipulation:
 * pandas
 * numpy
-2. numpy
 #### Visualization:
-seaborn
-matplotlib.pyplot
-matplotlib.cm (for colormaps)
+* seaborn
+* matplotlib.pyplot
+* matplotlib.cm (for colormaps)
 #### Machine Learning:
-scikit-learn
-xgboost
+* scikit-learn
+* xgboost
 #### Clustering:
-scikit-learn
-scipy.cluster.hierarchy (for hierarchical clustering)
+* scikit-learn
+* scipy.cluster.hierarchy (for hierarchical clustering)
 
 ### Results
 1. Achieved the highest average ROC-AUC score (0.9961) with the best-performing supervised model.
