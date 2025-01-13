@@ -21,8 +21,9 @@ Each city appears 24 times in the dataset, corresponding to monthly data across 
 
 ### Libraries Used
 #### Data Analysis and Manipulation:
-pandas
-numpy
+* pandas
+* numpy
+2. numpy
 #### Visualization:
 seaborn
 matplotlib.pyplot
