@@ -12,8 +12,37 @@ The project involves the following key steps:
 6. Visualization: Present findings using graphs and charts for a clearer understanding of the results.
 
 ### Dataset
-The dataset contains 28,668 rows and 13 features with demographic and employment-related data for cities and regional councils in Israel. The key features include:
+The dataset used in this project is from Data.gov.il. it contains 28,668 rows and 13 features with demographic and employment-related data for cities and regional councils in Israel. The key features include:
 
-1. Urban Demographics: Name, district, council type.
+1. Urban Demographics: city name, district, council type.
 2. Employment Data: Total job seekers, unemployment rates, placement success, gender distribution, and academic background.
+
+Each city appears 24 times in the dataset, corresponding to monthly data across ten years.
+
+### Libraries Used
+#### Data Analysis and Manipulation:
+pandas
+numpy
+#### Visualization:
+seaborn
+matplotlib.pyplot
+matplotlib.cm (for colormaps)
+#### Machine Learning:
+scikit-learn
+xgboost
+#### Clustering:
+scikit-learn
+scipy.cluster.hierarchy (for hierarchical clustering)
+
+### Results
+1. Achieved the highest average ROC-AUC score (0.9961) with the best-performing supervised model.
+2. Identified key factors influencing unemployment, such as education level and region.
+3. Clustering analysis revealed distinct groups of cities with similar unemployment trends.
+
+### License
+This project is licensed under the MIT License.
+
+### Authors
+This repository is managed by Yarden Samuel and Renana Fried. For any questions or feedback, please contact us via GitHub.
+
 
